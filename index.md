@@ -1,46 +1,78 @@
 # Susmit Yenkar
+
 ## 📚 Education
-**🎓 M. Tech Data Science and Engineering**  
-*Apr 2022 - Mar 2024*  
+**🎓 M. Tech Data Science and Engineering**
+* BITS Pillani | Apr 2022 - Mar 2024*  
 - Solidified knowledge in data science  
-- Preparing for Ph.D. research in audio data space  
-- Led a team of 3  
+- Preparing for Ph.D. research in audio data space   
 
-**🎓 Graduation - Ramdeobaba College of Engineering and Management**  
-*May 2014*  
-- Began interest in robotics and microcontroller programming  
-- Learned C language and assembly language  
+**🎓 IPBA**  
+*IIM Indore | Jun 2010 - May 2014*  
+- Foundational Course for defining Business problems using Data.
+- Learned data-driven decision-making in various Business scenarios.
 
-## 🏆 Achievements and Awards
-- 🏆 Recognition Award  
-- 🏆 Good Samaritan (Pronto) Award  
-- 📚 IPBA, IIM Indore  
+**🎓 B. Engg Electronics Engineering**  
+*Ramdeobaba College Of Engineering | Jun 2010 - May 2014*  
+- Robotics and microcontroller programming  
+- Learned C language and assembly language
 
-## 💼 Job Experience
+## 🏆 Achievements & Awards
+- Elevate Our Best Award, VMWare
+- Recognition Award, Agrostar
+- Good Samaritan (Pronto) Award, Agrostar  
+- Top performer Award, E42.ai
+- ACE Aware, Accenture
 
-**👩‍💻 Senior MTS, VMware**  
-*Mar 2022 - Present*  
+## 🏆 Patents & Publications
+- (On the Role of Similarity in Detecting Masquerading Files)[https://arxiv.org/abs/2402.11227]
 
-**👩‍🏫 CDAC Trainer**  
+
+## 🛠️ Projects
+
+- [Cyber Security Projects]()
+    - [SafeGuard LLMs - A Survey]()
+    - [Support ChatBot Using Phi3]()
+    - [Executive Assistant Using GenAI]()
+- [GenAI - Text & RAG]()
+    - [Train BERT]()
+    - [Support ChatBot Using Phi3]()
+    - [Executive Assistant Using GenAI]()
+- [Gen AI - Image ]()
+- [Data Engineering Projects]()
+    - [Train BERT]()
+    - [Support ChatBot Using Phi3]()
+    - [Executive Assistant Using GenAI]()
+- [Machine Learning Engineering and Software Development]()
+- [Explore Programming Languages]()
+
+
+## 💼 Work Experience
+
+**👩‍💻 R&D Engineer 4 - Cyber Security, VMware | Broadcom**  
+*Mar 2022 - Present*
+- Built a Fast File Reputation System using Hac-t Clustering, Similarity and ANN Modelling.
+- Worked on Vulnerability feeds using NER and NLP, Saved $4 Million.
+- Fixed memory leaks and TNULL issue in TLSH.
+- Alert classification based on commandline clustering using TLSH and anamoly detection. 
+
+**👩‍🏫 Data Science and Analytics Trainer, CDAC**  
 *Feb 2022 - Mar 2022*  
-- Approval rating of 3.6/4  
+- Student Approval rating of 3.6/4
 
-**📊 Data Science Engineer III, AgroStar**  
-*Jan 2021*  
-- Double promotion  
-- Led a team of 7  
-
-**📈 Data Science Engineer I, AgroStar**  
-*Prior to Jan 2021*  
-- Built data architecture from ground up  
+**👩‍💻 Data Science Engineer III, AgroStar**  
+*Feb 2021*
+- 3 Promotions in 3 Years
+- Led a team of 7 Data Scientist and Data Engineers
+- Built entire data architecture from ground up
+- Handeled ETL & Streaming data
+- Kept costs constant inspite of increasing number of users and data  
+- 
 - Engaged with Agrostar's rural India focus  
 
 **🤖 Team Lead AI/NLP, E42.ai | Light.ai**  
-- Managed projects for Mondelez, Oyo Rooms, PNB Metlife  
-- 🎁 Awarded Stock Options  
-
-**💻 Software Engineer, E42.ai | Light.ai**  
-- Transitioned from Tata Communication and O2 Communication  
+- Focused on Developing AI Bots using NLP, State Machines and 
+- Managed and Developed projects for Mondelez, Oyo Rooms, PNB Metlife  
+- Devloped AI Bots Tata Communication and O2 Communication  
 
 **💼 Software Engineer, Accenture**  
 - Banking Android App development  
@@ -48,17 +80,5 @@
 
 **🔧 Associate Software Engineer, Accenture**  
 - UI changes for Banking Android App  
-- Received CPP Award and ACE Award  
+ 
 
-## 🛠️ Projects
-
-**📊 Datrick**  
-*Oct 2021*  
-- Pro bono data science consulting for data strategy and engineering  
-- Tech Stack: DataBricks, MLFlow, CI/CD/CT  
-
-**🌍 Moved to Bangalore**  
-*Dec 2021*  
-
-**🌍 Moved to Pune**  
-*Post Graduation*  
